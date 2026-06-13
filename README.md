@@ -1,2 +1,8 @@
 # portfolio-
-my portfolio in tech
+ 
+ -SKILLS/EXPERTISE:  
+ -python 
+ -machine learning
+ -Deep learning | CNN
+ -ioT | rasbperry pi 
+ -Electrical power system
