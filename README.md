@@ -4,5 +4,5 @@
 - python 
 - machine learning
 - Deep learning | CNN
-- ioT | rasbperry pi 
+- AI Automation specialist 
 - Electrical power system
